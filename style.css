@@ -1,0 +1,78 @@
+.banner{
+    height: 100vh;
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url('https://img.freepik.com/free-photo/cabinet-tv-modern-living-room-with-armchair-lamp-table-flower-plant-concrete-wall-background-3d-rendering_41470-3344.jpg?t=st=1653377906~exp=1653378506~hmac=6235211510842ef64540b999c52ffbc82b0f3f84b5fa563709a753c1f842616e&w=1380');
+}
+.foto{
+    height: 100vh;
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url('https://images.pexels.com/photos/3652784/pexels-photo-3652784.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260');
+    background-size: cover;
+}
+.klasik-kursi{
+    border:solid;
+    height: 400px;
+    background-image: url('https://images.unsplash.com/photo-1601366533287-5ee4c763ae4e?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388');
+    background-size: cover;
+    background-position: center;
+}
+.klasik-meja{
+    border:solid;
+    height: 400px;
+    background-image: url('https://images.pexels.com/photos/8167313/pexels-photo-8167313.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
+    background-size: cover;
+    background-position: center;
+}
+.klasik-lemari{
+    border:solid;
+    height: 400px;
+    background-image: url('https://jayafurni.com/wp-content/uploads/2020/05/Lemari-Hias-Kaca-Jati-Mewah-Klasik.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.no-decoration{
+    text-decoration: none;
+    color: aliceblue;
+}
+.no-decoration:hover{
+    color: darkgray;
+}
+.fotoo{
+    height: 100vh;
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url('https://img.freepik.com/free-photo/living-room-with-gray-sofa-dark-blue-wall_41470-4688.jpg?t=st=1653155525~exp=1653156125~hmac=7a0ada48bfac3f873f0aa449a72b4157cdc6e6290b73bb7c7968a1a61dbc4895&w=1060');
+    background-size: cover;
+}
+.minimalis-kursi{
+    border:solid;
+    height: 400px;
+    background-image: url('https://images.unsplash.com/photo-1503602642458-232111445657?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387');
+    background-size: cover;
+    background-position: center;
+}
+.minimalis-meja{
+    border:solid;
+    height: 400px;
+    background-image: url('https://images.pexels.com/photos/9566054/pexels-photo-9566054.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
+    background-size: cover;
+    background-position: center;
+}
+.minimalis-lemari{
+    border:solid;
+    height: 400px;
+    background-image: url('https://images.pexels.com/photos/7614544/pexels-photo-7614544.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
+    background-size: cover;
+    background-position: center;
+}
+.aboutus{
+    background-color:darkslategrey;
+}
+.warna-text{
+    color:antiquewhite;
+}
+.harga{
+    color: orange;
+}
+.checkout{
+    background-image: url(' https://img.freepik.com/free-photo/empty-living-room-with-blue-sofa-plants-table-empty-white-wall-background-3d-rendering_41470-1778.jpg?t=st=1653377906~exp=1653378506~hmac=d4b4f6b4281b79f3a4925f06005df650170eb2651e671c7eb388dda728d36332&w=1060');
+    background-size: cover;
+    height: 100vh;
+}
+ 
